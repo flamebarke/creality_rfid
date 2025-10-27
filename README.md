@@ -6,12 +6,12 @@ All credit to the original author for his work on parsing the tag data etc.
 
 This is just a port to Python3 with Proxmark3 integration and read functionality.
 
-### GUI Version
+### GUI
 ![GUI](gui_rfid.png)
 
 ![GUI](creality_rfid_tool_gui.mp4)
 
-### CLI Version
+### CLI
 
 ```
 ┌──(venv)─(kali㉿kali)-[~/creality_crypto]
